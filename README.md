@@ -1,6 +1,6 @@
 # Hi, I'm Cameron 👋
 
-📍 **Brighton, UK** | 🧭 **Engineering Manager @ Not On The High Street** | 💻 **Indie Dev** | 🤖 **AI optimist** | 😎 **Master vibe coder**
+📍 **Brighton, UK** | 🧭 **Engineering Manager @ Not On The High Street** | 💻 **Indie Dev** | 🤖 **AI optimist** | 😎 **Vibe coding evangelist**
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
