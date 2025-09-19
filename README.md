@@ -11,12 +11,15 @@
 ![Codex](https://img.shields.io/badge/-Codex-4B8DF8?style=flat-square&logo=openai&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-6C63FF?style=flat-square&logoColor=white)
 ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-FF6B6B?style=flat-square&logo=protocol&logoColor=white)
+![OSS](https://img.shields.io/badge/-Open%20Source-4B8DF8?style=flat-square&logo=github&logoColor=white)
 
 ## Philosophy
 
 Just build. Have fun. AI has stripped away the barriers, making creation faster and cheaper than ever. Every idea you have is worth testing because the risk is almost nothing and the potential is unlimited. Don’t cling to failures; treat them as stepping stones. Right now is the greatest moment to be a developer. Forget perfection, chase outcomes.
 
 ## Current Projects
+
+All my projects are open source and available on GitHub.
 
 - **[XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP)** – 2.5k+ ⭐ Highly popular MCP server for Xcode automation.
 - **[AXe](https://github.com/cameroncooke/AXe)** – UI automation on Apple platforms made for AI agents and humans alike.
