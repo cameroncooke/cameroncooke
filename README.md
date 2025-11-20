@@ -41,6 +41,7 @@ All my projects are open source and available on GitHub.
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Do MCP Servers Really Eat Half Your Context Window?](https://www.async-let.com/posts/claude-code-mcp-token-reporting/) _(November 19, 2025)_
 - [Introducing MCPLI: Turn MCP servers into first class CLIs](https://www.async-let.com/posts/introducing-mcpli/) _(September 4, 2025)_
 - [Finding Balance in the AI Boom: Family, FOMO, and My Limits](https://www.async-let.com/posts/family-fomo-and-ai/) _(August 10, 2025)_
 - [My Take on the MCP vs CLI Debate](https://www.async-let.com/posts/my-take-on-the-mcp-verses-cli-debate/) _(July 5, 2025)_
