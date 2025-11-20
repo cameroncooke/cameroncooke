@@ -25,6 +25,7 @@ All my projects are open source and available on GitHub.
 - **[AXe](https://github.com/cameroncooke/AXe)** – UI automation on Apple platforms made for AI agents and humans alike.
 - **[reloaderoo](https://github.com/cameroncooke/reloaderoo)** – MCP development proxy & CLI MCP debug inspection tool.
 - **[mcpli](https://github.com/cameroncooke/mcpli)** – Turns any MCP server into a first-class CLI.
+- **[mcpusage](https://github.com/cameroncooke/MCPUsage)** - CLI for measuring MCP server tool advertisement token usage.
 
 ## GitHub Activity
 
