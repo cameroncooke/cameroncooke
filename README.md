@@ -21,7 +21,7 @@ Just build. Have fun. AI has stripped away the barriers, making creation faster 
 
 All my projects are open source and available on GitHub.
 
-- **[XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP)** – 4k+ ⭐ Highly popular MCP server for Xcode automation.
+- **[XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP)** – 4k+ ⭐ Highly popular MCP server for Xcode automation.
 - **[AXe](https://github.com/cameroncooke/AXe)** – UI automation on Apple platforms made for AI agents and humans alike.
 - **[reloaderoo](https://github.com/cameroncooke/reloaderoo)** – MCP development proxy & CLI MCP debug inspection tool.
 - **[mcpli](https://github.com/cameroncooke/mcpli)** – Turns any MCP server into a first-class CLI.
@@ -35,7 +35,6 @@ All my projects are open source and available on GitHub.
 
 - **Building developer tools** – XcodeBuildMCP, AXe, mcpli, with a developer experience focus.
 - **Writing at [Async Let](https://www.async-let.com/)** – Deep dives on Swift testing, MCP workflows, and balancing indie life.
-- **Leading teams** – Coaching engineers while keeping hands-on with the latest Apple platform tech.
 - **Experimenting with AI** – Trying to stay on the leading edge of AI and its impact on software development, especially in relation to Apple platforms.
 
 ## Latest Blog Posts
