@@ -1,6 +1,6 @@
 # Hi, I'm Cameron 👋
 
-📍 **Brighton, UK** | 🧭 **Senior Software Engineer @ Sentry** | 💻 **Indie Dev** | 🤖 **AI optimist** | 😎 **Vibe coding evangelist**
+📍 **Brighton, UK** | 🧭 **Experienced Software Engineer and Leader** | 💻 **Wannabe Indie Dev** | 🤖 **AI optimist** | 😎 **Vibe coding evangelist**
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
